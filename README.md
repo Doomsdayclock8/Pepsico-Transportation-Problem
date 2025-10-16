@@ -169,6 +169,3 @@ Bangladesh University of Engineering and Technology (BUET)
 
 This project is for academic purposes. All data is used with permission from Transcom Beverage Limited for educational analysis only.
 
----
-
-*Last Updated: March 2023*
