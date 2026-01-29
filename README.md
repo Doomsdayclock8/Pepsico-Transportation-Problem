@@ -108,9 +108,9 @@ This heuristic provides a good initial basic feasible solution by:
 ## Project Structure
 
 ```
-├── 1908040_1908042_1908043_IPE-307-term-Project.pdf    # Complete project report
+├── 1908040_1908042_1908043_IPE-307-term-Project.pdf      # Complete project report
 ├── README.md                                             # This file
-└── [Excel file - Pepsico-Transportation_Problem.xlsx]                 # Solver implementation
+└── [Excel file - Pepsico-Transportation_Problem.xlsx]    # Solver implementation
 ```
 
 ---
