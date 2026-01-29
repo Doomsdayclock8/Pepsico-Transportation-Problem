@@ -61,7 +61,7 @@ The problem is formulated as a **Linear Programming Problem (LPP)** with:
 | Konabari  | 35,480 | 23,380 | 43,280     | 38,900 | 2,940   | 45,000 |
 | Bagher Bazar | 35,900 | 27,160 | 45,940  | 41,700 | 5,600   | 90,000 |
 | Chittagong | 52,920 | 62,040 | 2,800     | 67,300 | 39,960  | 80,000 |
-| **Demand** | **52,000** | **35,000** | **50,000** | **50,000** | **65,000** | **247,000** |
+| **Demand** | **52,000** | **35,000** | **50,000** | **50,000** | **60,000** |  |
 
 **Note:** Costs include both distance-based transportation (140 Tk/km for 1.5-ton van) and toll road expenses.
 
