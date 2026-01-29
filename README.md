@@ -113,16 +113,6 @@ This heuristic provides a good initial basic feasible solution by:
 └── [Excel file - currently unavailable]                 # Solver implementation
 ```
 
-### ⚠️ Important Note: Missing Excel File
-
-**The original Excel Solver file used for this project is currently unavailable.** The file contained:
-- Complete transportation cost matrix
-- Decision variable cells (x_ij allocations)
-- Excel Solver configuration with objective function and constraints
-- Optimal solution output
-
-We apologize for any inconvenience. If the Excel file is recovered, this repository will be updated.
-
 ---
 
 ## Learning Outcomes
